@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shefayat E - Shams Adib</h1>
-<h3 align="center">A Software Engineering undergrad studying at Islamic University of Technology</h3>
+<h3 align="center">A Software Engineering undergrad</h3>
 
 - 🔭 I’m currently working on [Talkster-Chat_App](https://github.com/Shefwef/Talkster_Chat-App)
 
