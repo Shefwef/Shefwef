@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shefayat E - Shams Adib</h1>
+<h1 align="center">Hi 👋, I'm Shefayat</h1>
 <h3 align="center">A senior year undergrad majoring in Software Engineering</h3>
 
 <p align="center">
