@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m interested in Web & App Development along with Cloud Technologies**
+- 🔭 I’m interested in **Web & App Development along with Cloud Technologies**
 
 - 🌱 I’m currently working on [Talkster-Chat_App](https://github.com/Shefwef/Talkster_Chat-App)
 
