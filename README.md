@@ -9,7 +9,7 @@
 
 - 🔭 I’m interested in **Web & App Development along with Cloud Technologies**
 
-- 🌱 I’m currently working on [Talkster-Chat_App](https://github.com/Shefwef/Talkster_Chat-App)
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Web Dev, Problem Solving & OOP**
 
