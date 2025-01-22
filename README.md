@@ -9,7 +9,7 @@
 
 - 🔭 I’m interested in **Web & App Development along with Cloud Technologies**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **AI and ML Models**
 
 - 💬 Ask me about **Web Dev, Problem Solving & OOP**
 
